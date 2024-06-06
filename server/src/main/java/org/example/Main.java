@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Hello world2");
         System.out.println("Hello world2");
         System.out.println("KF20240606003-提交代码");
+        System.out.println("KF20240606003-提交代码2");
     }
 }
